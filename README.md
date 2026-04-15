@@ -12,6 +12,17 @@ Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jet
 - **Laporan Keuangan**: Rekapitulasi transaksi bulanan yang dapat diekspor ke format PDF.
 - **Konfigurasi Firebase**: Sinkronisasi data real-time dengan Firebase Realtime Database.
 
+## Screenshot
+![WhatsApp Image 2026-04-15 at 11 31 10](https://github.com/user-attachments/assets/981376df-4027-448c-a673-f5d1c5987c49)
+![WhatsApp Image 2026-04-15 at 11 31 08](https://github.com/user-attachments/assets/e45d2be7-1692-4b93-85da-7b6962d94d75)
+![WhatsApp Image 2026-04-15 at 11 31 08 (1)](https://github.com/user-attachments/assets/b0c35d9e-a84e-42b3-8079-63cbb4ecb608)
+![WhatsApp Image 2026-04-15 at 11 31 08 (2)](https://github.com/user-attachments/assets/b377dde4-5e21-4c16-8c3e-24cdcb8da220)
+![WhatsApp Image 2026-04-15 at 11 31 09](https://github.com/user-attachments/assets/bdb7b402-ef08-4fe2-a5e3-6f71fd351c40)
+![WhatsApp Image 2026-04-15 at 11 31 09 (1)](https://github.com/user-attachments/assets/d569a4f9-f9d1-4b18-ab65-1d9a6ba711d9)
+![WhatsApp Image 2026-04-15 at 11 31 09 (2)](https://github.com/user-attachments/assets/4ab2d36f-1b06-4cf7-a67a-7dcb96abcc7e)
+
+
+
 ## Teknologi
 
 - **Bahasa Pemrograman**: Kotlin
