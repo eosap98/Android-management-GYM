@@ -33,4 +33,4 @@ Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jet
 - `app/src/main/java/com/gymku/app/util`: Utility classes (Exporter, Formatter).
 
 ---
-*Dibuat oleh Eos Ageng*
+*Dibuat oleh [Eos Ageng](https://www.instagram.com/eosnada1702/)*
