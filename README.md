@@ -22,7 +22,7 @@ Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jet
   - CameraX & ML Kit (untuk QR Scanner)
   - DataStore (untuk penyimpanan konfigurasi lokal)
   - MPAndroidChart (untuk visualisasi data)
-  - iText7 (untuk ekspor PDF)(*BETA*)
+  - iText7 (untuk ekspor PDF) **BETA**
 
 
 Download Aplikasi [Klik disini](https://github.com/eosap98/Android-management-GYM-/releases/download/V1.0/gymkuApp.apk)
