@@ -24,13 +24,6 @@ Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jet
   - MPAndroidChart (untuk visualisasi data)
   - iText7 (untuk ekspor PDF)
 
-## Cara Menjalankan Project
-
-1. Pastikan Anda memiliki **Android Studio Koala** (atau versi lebih baru).
-2. Clone repository ini.
-3. Import project ke Android Studio.
-4. Jalankan aplikasi di Emulator atau Perangkat Fisik (Target API 36).
-5. Pada saat pertama kali dijalankan, masuk ke menu **Setup** untuk mengkonfigurasi Firebase Database URL.
 
 ## Struktur Project
 
