@@ -14,7 +14,7 @@ Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jet
 
 ## Teknologi
 
-- **Bahasa**: Kotlin
+- **Bahasa Pemrograman**: Kotlin
 - **UI Framework**: Jetpack Compose (Material 3)
 - **Database**: Firebase Realtime Database
 - **Arsitektur**: MVVM (Model-View-ViewModel)
@@ -22,7 +22,7 @@ Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jet
   - CameraX & ML Kit (untuk QR Scanner)
   - DataStore (untuk penyimpanan konfigurasi lokal)
   - MPAndroidChart (untuk visualisasi data)
-  - iText7 (untuk ekspor PDF)
+  - iText7 (untuk ekspor PDF)(*BETA*)
 
 
 Download Aplikasi [Klik disini](https://github.com/eosap98/Android-management-GYM-/releases/download/V1.0/gymkuApp.apk)
