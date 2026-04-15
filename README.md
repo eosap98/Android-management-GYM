@@ -1,0 +1,43 @@
+# GymKu - Aplikasi Manajemen GYM
+
+Aplikasi manajemen GYM (Native Android) yang dibangun menggunakan Kotlin dan Jetpack Compose. Aplikasi ini dirancang untuk memudahkan pengelolaan anggota, pengunjung, jadwal staf, dan pelaporan keuangan.
+
+## Fitur Utama
+
+- **Dashboard Real-time**: Ringkasan jumlah anggota aktif, pengunjung harian, dan total pemasukan.
+- **Manajemen Anggota**: Pendaftaran anggota baru, pencarian anggota, dan ekspor kartu anggota.
+- **Check-in QR Code**: Scanner QR untuk kehadiran anggota secara cepat dan efisien.
+- **Manajemen Pengunjung**: Pencatatan pengunjung harian (transaksi instan).
+- **Jadwal Staf**: Kalender shift staf terintegrasi dengan validasi login berdasarkan waktu shift.
+- **Laporan Keuangan**: Rekapitulasi transaksi bulanan yang dapat diekspor ke format PDF.
+- **Konfigurasi Firebase**: Sinkronisasi data real-time dengan Firebase Realtime Database.
+
+## Teknologi
+
+- **Bahasa**: Kotlin
+- **UI Framework**: Jetpack Compose (Material 3)
+- **Database**: Firebase Realtime Database
+- **Arsitektur**: MVVM (Model-View-ViewModel)
+- **Library Lainnya**:
+  - CameraX & ML Kit (untuk QR Scanner)
+  - DataStore (untuk penyimpanan konfigurasi lokal)
+  - MPAndroidChart (untuk visualisasi data)
+  - iText7 (untuk ekspor PDF)
+
+## Cara Menjalankan Project
+
+1. Pastikan Anda memiliki **Android Studio Koala** (atau versi lebih baru).
+2. Clone repository ini.
+3. Import project ke Android Studio.
+4. Jalankan aplikasi di Emulator atau Perangkat Fisik (Target API 36).
+5. Pada saat pertama kali dijalankan, masuk ke menu **Setup** untuk mengkonfigurasi Firebase Database URL.
+
+## Struktur Project
+
+- `app/src/main/java/com/gymku/app/data`: Model data dan repositori.
+- `app/src/main/java/com/gymku/app/ui`: Layer UI (Screens, Theme, Components).
+- `app/src/main/java/com/gymku/app/viewmodel`: Logika bisnis dan state management.
+- `app/src/main/java/com/gymku/app/util`: Utility classes (Exporter, Formatter).
+
+---
+*Dibuat oleh Eos Ageng*

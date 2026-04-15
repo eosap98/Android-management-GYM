@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GymKu</string>
+    <string name="app_tagline">Manajemen Gym Modern</string>
+
+    <!-- Auth -->
+    <string name="login_title">Masuk</string>
+    <string name="login_subtitle">Login dengan akun staf Anda</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="default_credentials">Default: admin / admin123</string>
+
+    <!-- Firebase Setup -->
+    <string name="firebase_setup_title">Koneksi Firebase</string>
+    <string name="firebase_setup_subtitle">Masukkan konfigurasi Firebase Realtime Database Anda.</string>
+    <string name="firebase_db_url">Database URL</string>
+    <string name="firebase_project_id">Project ID</string>
+    <string name="firebase_app_id">App ID</string>
+    <string name="firebase_api_key">API Key</string>
+    <string name="btn_save_connect">Simpan &amp; Hubungkan</string>
+
+    <!-- Dashboard -->
+    <string name="greeting">Halo, %1$s</string>
+    <string name="attendance_today">Kehadiran Hari Ini</string>
+    <string name="shift_revenue">Pendapatan Shift Ini</string>
+    <string name="quick_actions">Aksi Cepat</string>
+    <string name="recent_transactions">Transaksi Terbaru</string>
+
+    <!-- Member -->
+    <string name="member_list">Daftar Member</string>
+    <string name="add_member">Daftar Member Baru</string>
+    <string name="member_active">Aktif</string>
+    <string name="member_expired">Expired</string>
+    <string name="renew_package">Perpanjang Paket</string>
+    <string name="confirm_checkin">Konfirmasi Masuk</string>
+
+    <!-- Visitor -->
+    <string name="add_visitor">Input Tamu Harian</string>
+    <string name="btn_save_visitor">Simpan Tamu</string>
+
+    <!-- Report -->
+    <string name="report_title">Laporan Keuangan</string>
+    <string name="total_revenue">Total Pendapatan</string>
+    <string name="cash">Cash</string>
+    <string name="qris">QRIS</string>
+    <string name="today">Hari Ini</string>
+    <string name="this_week">Minggu</string>
+    <string name="this_month">Bulan Ini</string>
+
+    <!-- Shift -->
+    <string name="shift_morning">Pagi</string>
+    <string name="shift_afternoon">Siang</string>
+    <string name="shift_off">Luar Jam</string>
+</resources>
